@@ -5,7 +5,7 @@
 */
 
 
-// LED board indexes
+// LED board indexes (change according to which pins are being used)
 const int LED_RED = 0;
 const int LED_YELLOW = 1;
 const int LED_GREEN = 2;
